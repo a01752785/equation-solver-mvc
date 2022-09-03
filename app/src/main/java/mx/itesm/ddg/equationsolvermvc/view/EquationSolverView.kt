@@ -8,6 +8,11 @@ import mx.itesm.ddg.equationsolvermvc.model.QuadraticEquationSolution
 import mx.itesm.ddg.equationsolvermvc.model.QuadraticEquationSolver
 import mx.itesm.ddg.equationsolvermvc.viewmodel.EquationSolverViewModel
 
+/**
+ * Author: David Damian
+ * The view for the EquationSolver.
+ */
+
 class EquationSolverView : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
