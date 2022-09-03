@@ -6,7 +6,6 @@ import android.os.Bundle
 import mx.itesm.ddg.equationsolvermvc.databinding.ActivityMainBinding
 import mx.itesm.ddg.equationsolvermvc.model.QuadraticEquationSolution
 import mx.itesm.ddg.equationsolvermvc.model.QuadraticEquationSolver
-import mx.itesm.ddg.equationsolvermvc.viewmodel.EquationSolverViewModel
 
 /**
  * Author: David Damian
